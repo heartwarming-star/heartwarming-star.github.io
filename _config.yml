@@ -4,12 +4,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "heartwarming_star.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Minkyu Kim
+author-name:    김민규
 author-image:   1.jpg
 author-job:     Developer
 author-email:   ob130@naver.com
 author-twitter: 
-about-author:   Study for freedom, Work for responsibility
+about-author:  Minkyu Kim
+Study for freedom, Work for responsibility
 
 # Social settings
 social-twitter:   
