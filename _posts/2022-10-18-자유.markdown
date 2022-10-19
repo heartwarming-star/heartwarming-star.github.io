@@ -3,10 +3,12 @@ layout: post
 title: 자유, 사랑, 기여
 image: 8.jpg
 date: 2022-10-18 17:58:18 +0200
-tags: [workflow, minimalism]
-categories: minimalism
+tags: [freedom, love, philanthropy]
+categories: Introduction
 ---
 > Freedom, Love, Philanthropy 
+
+자유, 사랑, 그리고 기여. 세가지 가치의 조화를 꿈꿉니다.
 
 ***
 
