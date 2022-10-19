@@ -11,13 +11,13 @@ categories: Introduction
 ***
 
 #### Introduction:
-##### Korea Science Academy 18
-##### Seoul National University, Electrical and Computer Engineering 21
-##### Samsung Electronics STIP(Samsung Talent Internship) S.LSI 
+###### Korea Science Academy 18
+###### Seoul National University, Electrical and Computer Engineering 21
+###### Samsung Electronics STIP(Samsung Talent Internship) S.LSI 
 
 ***
 
-##### Interests: 
+#### Interests: 
 
 * Electrically powered automobiles
 * Multirotor drones
@@ -26,8 +26,8 @@ categories: Introduction
 
 ***
 
-This site is just for recording my projects, and studies.
-Thanks for visiting this website and I am very open to any offers related to my interests.
-You can contact with me by using e-mail, instagram, linkedin, and any methods that are linked on my profile.
+This site is just for recording my projects, and studies. <br>
+Thanks for visiting this website and I am very open to any offers related to my interests. <br>
+You can contact with me by using e-mail, instagram, linkedin, and any methods that are linked on my profile. <br>
 
 Thanks!
