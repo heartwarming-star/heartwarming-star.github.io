@@ -2,7 +2,7 @@
 layout: post
 title: Style Guide
 image: 8.jpg
-date: 2022-03-02 13:35:20 +0200
+date: 2022-10-19 13:35:20 +0200
 tags:
 categories: Introduction
 ---
