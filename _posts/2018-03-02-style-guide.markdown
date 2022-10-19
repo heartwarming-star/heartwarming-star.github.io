@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 자유, 사랑, 기여
+title: Style Guide
 image: 8.jpg
 date: 2022-10-19 13:35:20 +0200
 tags:
@@ -8,6 +8,7 @@ categories: Introduction
 ---
 > 자유, 사랑, 기여  Freedom, Love, Philanthropy 
 
+자유, 사랑, 기여
 Study for freedom, Work for responsibility
 ***
 
