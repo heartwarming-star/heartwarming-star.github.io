@@ -9,7 +9,9 @@ categories: Introduction
 > 자유, 사랑, 기여  Freedom, Love, Philanthropy 
 
 자유, 사랑, 기여
+
 Study for freedom, Work for responsibility
+
 ***
 
 #### Headings by default:
