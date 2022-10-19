@@ -2,7 +2,6 @@
 layout: home
 ---
 {% include header.html %}
-
 <div class="c-posts o-opacity">
   {% for post in site.categories[page.title] %}
   <article class="c-post">
@@ -22,5 +21,4 @@ layout: home
   </article>
   {% endfor %}
 </div> <!-- /.c-posts -->
-
 {% include categories.html %}
