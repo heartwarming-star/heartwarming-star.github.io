@@ -21,7 +21,7 @@ categories: Introduction
 
 * Electrically powered automobiles
 * Multirotor drones
-* AI based computer vision
+* AI based computer vision techniques
 * Any making projects 
 
 ***
