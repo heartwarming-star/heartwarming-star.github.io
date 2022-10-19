@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does minimalism help in a career?
-image: 2.jpg
+image: 8.jpg
 date: 2018-02-07 17:58:18 +0200
 tags: [workflow, minimalism]
 categories: minimalism
