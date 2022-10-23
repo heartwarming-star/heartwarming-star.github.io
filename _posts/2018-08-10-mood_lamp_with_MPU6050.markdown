@@ -9,6 +9,6 @@ categories: introduction
 > Mood Lamp with Accelerometer
 
 with Arduino, MPU6050, LED STRIP
-***  
+ 
 
 
