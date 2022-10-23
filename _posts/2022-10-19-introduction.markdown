@@ -2,7 +2,7 @@
 layout: post
 title: Freedom, Love, Philanthropy
 image: 2.jpg
-date: 2022-10-17 17:58:18 +0200
+date: 2022-10-19 17:58:18 +0200
 tags: [freedom, love, philanthropy]
 categories: introduction
 ---
