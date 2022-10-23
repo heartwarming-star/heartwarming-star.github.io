@@ -3,7 +3,7 @@ layout: post
 title: Mood Lamp with Accelerometer
 image: mood.jpg
 date: 2018-08-10 17:58:18 +0200
-tags: [freedom, love, philanthropy]
+tags: [lamp, mood, arduino, MPU6050]
 categories: introduction
 ---
 > Freedom, Love, Philanthropy, These three values always make me keep my eyes open.
