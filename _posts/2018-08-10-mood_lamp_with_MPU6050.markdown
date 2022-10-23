@@ -1,14 +1,14 @@
 ---
 layout: post
-title: mood_lamp_with_MPU6050
-image: 2.jpg
-date: 2022-10-18 17:58:18 +0200
+title: Mood Lamp with Accelerometer
+image: mood.jpg
+date: 2018-08-10 17:58:18 +0200
 tags: [freedom, love, philanthropy]
 categories: introduction
 ---
 > Freedom, Love, Philanthropy, These three values always make me keep my eyes open.
 
-***
+***  
 
 #### Introduction:
 ###### Korea Science Academy 18
