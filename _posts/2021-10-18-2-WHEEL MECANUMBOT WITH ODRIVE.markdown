@@ -2,7 +2,7 @@
 layout: post
 title: 2-WHEEL MECANUMBOT WITH ODRIVE
 image: 2.jpg
-date: 2022-10-18 17:58:18 +0200
+date: 2021-10-18 17:58:18 +0200
 tags: [freedom, love, philanthropy]
 categories: Robotics
 ---
