@@ -24,7 +24,7 @@ task :publish => [:generate] do
     pwd = Dir.pwd
     Dir.chdir tmp
 
-    system "cd .."
+    system "cd .." 
     system "git init"
     system "git add ."
     #system "git config --global user.email you@example.com"
