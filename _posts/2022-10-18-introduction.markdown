@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Freedom, Love, Philanthropy
+title: JET HYBRID DRONE PROJECT
 image: 2.jpg
-date: 2022-10-17 17:58:18 +0200
+date: 2022-10-18 17:58:18 +0200
 tags: [freedom, love, philanthropy]
 categories: introduction
 ---
