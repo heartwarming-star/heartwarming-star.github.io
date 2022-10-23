@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Freedom, Love, Philanthropy
+title: 2-WHEEL MECANUMBOT WITH ODRIVE
 image: 2.jpg
 date: 2022-10-18 17:58:18 +0200
 tags: [freedom, love, philanthropy]
-categories: introduction
+categories: Robotics
 ---
 > Freedom, Love, Philanthropy, These three values always make me keep my eyes open.
 

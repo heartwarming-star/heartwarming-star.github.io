@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Freedom, Love, Philanthropy
+title: BAMOCAR D3 CONTROLLER TEST
 image: 2.jpg
 date: 2022-10-18 17:58:18 +0200
 tags: [freedom, love, philanthropy]
