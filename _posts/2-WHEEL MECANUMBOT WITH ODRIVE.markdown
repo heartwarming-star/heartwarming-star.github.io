@@ -13,7 +13,9 @@ categories: introduction
 #### Introduction:
 ###### Korea Science Academy 18
 ###### Seoul National University, Electrical and Computer Engineering 21
+###### Presidential Science Scholarship 2021 
 ###### Samsung Electronics STIP(Samsung Talent Internship) S.LSI 
+
 
 ***
 

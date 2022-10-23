@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Freedom?
+title: Freedom, Love, Philanthropy
 image: 2.jpg
 date: 2022-10-18 17:58:18 +0200
 tags: [freedom, love, philanthropy]
@@ -13,7 +13,9 @@ categories: introduction
 #### Introduction:
 ###### Korea Science Academy 18
 ###### Seoul National University, Electrical and Computer Engineering 21
+###### Presidential Science Scholarship 2021 
 ###### Samsung Electronics STIP(Samsung Talent Internship) S.LSI 
+
 
 ***
 
@@ -21,7 +23,7 @@ categories: introduction
 
 * Electrically powered automobiles
 * Multirotor drones
-* AI based Computer Vision techniques
+* AI based computer vision techniques
 * Any making projects 
 
 ***
