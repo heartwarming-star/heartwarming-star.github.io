@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PCB PROJECT (ECE Project)
-image: 2.jpg
+image: pcb.jpg
 date: 2022-07-18 17:58:18 +0200
 tags: [PCB, Hall Sensor]
 categories: Robotics
