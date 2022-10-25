@@ -1,0 +1,10 @@
+---
+layout: post
+title: F450 Drone With Pixhawk cube
+image: drone.jpg
+date: 2019-03-03 17:58:18 +0200
+tags: [freedom, love, philanthropy]
+categories: Drone
+---
+> F450 Drone Frame with Pixhawk Cube
+
