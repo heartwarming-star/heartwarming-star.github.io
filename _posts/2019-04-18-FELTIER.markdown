@@ -4,7 +4,7 @@ title: Peltier Effect
 image: peltier.jpg
 date: 2019-04-18 17:58:18 +0200
 tags: [Peltier Effect]
-categories: Arduino Projects
+categories: Arduino
 ---
-> Peltier Effect Control with PWM.
+> Peltier Effect Control with PWM(Pulse Width Modulation)
 
