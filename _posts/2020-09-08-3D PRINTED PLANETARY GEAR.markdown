@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 3D PRINTED PLANETARY GEAR
-image: 2.jpg
+image: gear.jpg
 date: 2020-09-08 17:58:18 +0200
-tags: [freedom, love, philanthropy]
-categories: introduction
+tags: [3d printer, gear]
+categories: Robotics
 ---
 > Freedom, Love, Philanthropy, These three values always make me keep my eyes open.
 

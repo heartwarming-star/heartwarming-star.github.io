@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PCB PROJECT
+title: PCB PROJECT (ECE Project)
 image: 2.jpg
 date: 2022-10-18 17:58:18 +0200
 tags: [freedom, love, philanthropy]
