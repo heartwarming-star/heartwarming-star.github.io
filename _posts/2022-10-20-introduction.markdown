@@ -1,8 +1,8 @@
 ---
 layout: post
-title: LINE TRACER (ECE PROJECT)
+title: Freedom, Love, Philanthropy
 image: 2.jpg
-date: 2022-10-18 17:58:18 +0200
+date: 2022-10-20 17:58:18 +0200
 tags: [freedom, love, philanthropy]
 categories: introduction
 ---
